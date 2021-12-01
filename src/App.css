@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+.font-style{
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 70px;
+  font-weight: bolder;
+  color:#0ccac4;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +40,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+.Content{
+  margin:auto;
+  width:670px;
+  border: 1px solid #282c34;
+  background-color: #282c34;
 }
